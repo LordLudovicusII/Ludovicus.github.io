@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    position: relative;
+    z-index: 100;
+    display: grid;
+    color: white;
+    font-size: 6em;
+    top: -900px;
+}
+
+.text {
+    position: relative;
+    z-index: 100;
+    text-align: center;
+    top: -850px;
+    color: white;
+    font-size: 2em;
+}
